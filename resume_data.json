@@ -1,0 +1,52 @@
+{
+    "personal": {
+        "gender": "",
+        "full_name": "Shashank Shekhar",
+        "birthplace": "",
+        "first_name": "",
+        "family_name": "",
+        "middle_name": "",
+        "nationality": [],
+        "picture_url": null,
+        "date_of_birth": "",
+        "marital_status": "",
+        "picture_extension": null
+    },
+    "contact": {
+        "email": [
+            {
+                "value": "shashank.s.sahoo@gmail.com"
+            }
+        ],
+        "phone": [
+            {
+                "type": "Telephone",
+                "value": null
+            }
+        ],
+        "address": [],
+        "website": []
+    },
+    "summary": {
+        "benefits": "",
+        "objective": "",
+        "description": "",
+        "notice_period": "",
+        "current_salary": ""
+    },
+    "education": [
+        {
+            "school": "",
+            "degree_name": "Bachelor of Technology ",
+            "description": "GPA: 8.93"
+        }
+    ],
+    "experience": [
+        {
+            "title": "d Senior Data Scientist with over 9.5 years of expertise in designing and executing innovative, end"
+        },
+        {
+            "title": "d in creating ChatGPT APIs as LLM Plugins and seamlessly integrating them with real"
+        }
+    ]
+}
